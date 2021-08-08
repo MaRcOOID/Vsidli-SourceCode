@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Edificio.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Edificio0000" x="0" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0001" x="0" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0002" x="0" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0003" x="0" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0004" x="1127" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0005" x="1127" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0006" x="2254" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0007" x="2254" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0008" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0009" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0010" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0011" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0012" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0013" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0014" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0015" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0016" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0017" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0018" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0019" x="3381" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0020" x="4508" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0021" x="4508" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0022" x="4508" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0023" x="5635" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0024" x="5635" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0025" x="6762" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0026" x="6762" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0027" x="6762" y="0" width="1127" height="1809"/>
+	<SubTexture name="Edificio0028" x="0" y="1809" width="1127" height="1809"/>
+	<SubTexture name="Edificio0029" x="1127" y="1809" width="1127" height="1809"/>
+	<SubTexture name="Edificio0030" x="1127" y="1809" width="1127" height="1809"/>
+	<SubTexture name="Edificio0031" x="1127" y="1809" width="1127" height="1809"/>
+	<SubTexture name="Edificio0032" x="1127" y="1809" width="1127" height="1809"/>
+	<SubTexture name="Edificio0033" x="1127" y="1809" width="1127" height="1809"/>
+</TextureAtlas>

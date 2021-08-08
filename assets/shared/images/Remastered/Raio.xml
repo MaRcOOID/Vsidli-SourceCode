@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Raio.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Raio maqueen0000" x="0" y="0" width="2219" height="1540" frameX="0" frameY="0" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0001" x="0" y="0" width="2219" height="1540" frameX="0" frameY="0" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0002" x="2219" y="0" width="2251" height="1385" frameX="0" frameY="-73" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0003" x="4470" y="0" width="2265" height="1359" frameX="0" frameY="-112" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0004" x="4470" y="0" width="2265" height="1359" frameX="0" frameY="-112" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0005" x="0" y="1540" width="2193" height="1461" frameX="0" frameY="-28" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0006" x="0" y="1540" width="2193" height="1461" frameX="0" frameY="-28" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0007" x="0" y="1540" width="2193" height="1461" frameX="0" frameY="-28" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0008" x="0" y="1540" width="2193" height="1461" frameX="0" frameY="-28" frameWidth="2312" frameHeight="1590"/>
+	<SubTexture name="Raio maqueen0009" x="2193" y="1540" width="2312" height="1590"/>
+	<SubTexture name="Raio maqueen0010" x="2193" y="1540" width="2312" height="1590"/>
+	<SubTexture name="Raio maqueen0011" x="2193" y="1540" width="2312" height="1590"/>
+	<SubTexture name="Raio maqueen0012" x="2193" y="1540" width="2312" height="1590"/>
+	<SubTexture name="Raio maqueen0013" x="2193" y="1540" width="2312" height="1590"/>
+	<SubTexture name="Raio maqueen0014" x="2193" y="1540" width="2312" height="1590"/>
+</TextureAtlas>

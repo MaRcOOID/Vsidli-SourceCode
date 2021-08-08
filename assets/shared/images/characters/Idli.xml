@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idli.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idli Transformacion0000" x="1553" y="590" width="77" height="197" frameX="-77" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0001" x="1553" y="590" width="77" height="197" frameX="-77" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0002" x="1869" y="50" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0003" x="1869" y="50" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0004" x="1853" y="572" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0005" x="1853" y="572" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0006" x="1853" y="572" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0007" x="894" y="50" width="180" height="287" frameX="-28" frameY="-54" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0008" x="630" y="50" width="214" height="285" frameX="-4" frameY="-59" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0009" x="342" y="50" width="238" height="257" frameX="0" frameY="-76" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0010" x="1124" y="50" width="206" height="246" frameX="-15" frameY="-87" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0011" x="1424" y="590" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0012" x="1424" y="590" width="79" height="197" frameX="-74" frameY="-136" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0013" x="1124" y="50" width="206" height="246" frameX="-15" frameY="-87" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0014" x="1124" y="50" width="206" height="246" frameX="-15" frameY="-87" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0015" x="1124" y="50" width="206" height="246" frameX="-15" frameY="-87" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0016" x="50" y="50" width="242" height="333" frameX="-2" frameY="0" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli Transformacion0017" x="50" y="50" width="242" height="333" frameX="-2" frameY="0" frameWidth="244" frameHeight="344"/>
+	<SubTexture name="Idli dance0000" x="334" y="604" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0001" x="334" y="604" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0002" x="334" y="604" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0003" x="334" y="604" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0004" x="459" y="636" width="75" height="190" frameX="0" frameY="-4" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0005" x="459" y="636" width="75" height="190" frameX="0" frameY="-4" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0006" x="459" y="636" width="75" height="190" frameX="0" frameY="-4" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0007" x="957" y="638" width="75" height="190" frameX="0" frameY="-4" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0008" x="957" y="638" width="75" height="190" frameX="0" frameY="-4" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0009" x="1873" y="297" width="75" height="198"/>
+	<SubTexture name="Idli dance0010" x="1873" y="297" width="75" height="198"/>
+	<SubTexture name="Idli dance0011" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0012" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0013" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0014" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0015" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0016" x="1106" y="614" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli dance0017" x="334" y="604" width="75" height="197" frameX="0" frameY="-1" frameWidth="75" frameHeight="198"/>
+	<SubTexture name="Idli down0000" x="656" y="385" width="102" height="199"/>
+	<SubTexture name="Idli down0001" x="656" y="385" width="102" height="199"/>
+	<SubTexture name="Idli down0002" x="656" y="385" width="102" height="199"/>
+	<SubTexture name="Idli down0003" x="656" y="385" width="102" height="199"/>
+	<SubTexture name="Idli down0004" x="1278" y="557" width="96" height="197" frameX="-1" frameY="-1" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli down0005" x="1278" y="557" width="96" height="197" frameX="-1" frameY="-1" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli down0006" x="1278" y="557" width="96" height="197" frameX="-1" frameY="-1" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli down0007" x="1278" y="557" width="96" height="197" frameX="-1" frameY="-1" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli down0008" x="1278" y="557" width="96" height="197" frameX="-1" frameY="-1" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli down0009" x="1708" y="572" width="95" height="194" frameX="-7" frameY="0" frameWidth="102" frameHeight="199"/>
+	<SubTexture name="Idli left0000" x="1708" y="320" width="115" height="202" frameX="-2" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0001" x="1708" y="320" width="115" height="202" frameX="-2" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0002" x="1708" y="320" width="115" height="202" frameX="-2" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0003" x="1708" y="320" width="115" height="202" frameX="-2" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0004" x="1380" y="50" width="119" height="204"/>
+	<SubTexture name="Idli left0005" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0006" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0007" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0008" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0009" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0010" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0011" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0012" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0013" x="1380" y="304" width="119" height="203" frameX="0" frameY="0" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0014" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0015" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0016" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0017" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0018" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0019" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli left0020" x="342" y="357" width="113" height="197" frameX="0" frameY="-5" frameWidth="119" frameHeight="204"/>
+	<SubTexture name="Idli reaccion0000" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0001" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0002" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0003" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0004" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0005" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0006" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0007" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0008" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0009" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0010" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0011" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0012" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0013" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli reaccion0014" x="656" y="634" width="75" height="197"/>
+	<SubTexture name="Idli right0000" x="957" y="387" width="99" height="201" frameX="0" frameY="-3" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0001" x="957" y="387" width="99" height="201" frameX="0" frameY="-3" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0002" x="957" y="387" width="99" height="201" frameX="0" frameY="-3" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0003" x="957" y="387" width="99" height="201" frameX="0" frameY="-3" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0004" x="50" y="433" width="98" height="202" frameX="-1" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0005" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0006" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0007" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0008" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0009" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0010" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0011" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0012" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0013" x="505" y="385" width="101" height="201" frameX="-4" frameY="-1" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli right0014" x="808" y="387" width="99" height="202" frameX="0" frameY="0" frameWidth="105" frameHeight="204"/>
+	<SubTexture name="Idli up0000" x="1549" y="50" width="110" height="220" frameX="0" frameY="-1" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0001" x="1709" y="50" width="110" height="220" frameX="0" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0002" x="1709" y="50" width="110" height="220" frameX="0" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0003" x="1709" y="50" width="110" height="220" frameX="0" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0004" x="1549" y="320" width="109" height="220" frameX="-5" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0005" x="1549" y="320" width="109" height="220" frameX="-5" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0006" x="1124" y="346" width="104" height="218" frameX="-8" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0007" x="1124" y="346" width="104" height="218" frameX="-8" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0008" x="1124" y="346" width="104" height="218" frameX="-8" frameY="-2" frameWidth="114" frameHeight="222"/>
+	<SubTexture name="Idli up0009" x="198" y="433" width="86" height="198" frameX="-11" frameY="0" frameWidth="114" frameHeight="222"/>
+</TextureAtlas>
